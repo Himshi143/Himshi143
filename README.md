@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Creative_Himshi
+- 👋 Hi, I’m @Himshi
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/himshi-c-84a226115/
 
 <!---
